@@ -25,7 +25,7 @@ class ExampleBrowser extends StatefulWidget {
 class _ExampleBrowser extends State<ExampleBrowser> {
   final _controller = WebviewController();
   final _textController = TextEditingController();
-  final _url = 'https://ux.shopify.com/how-to-push-the-limits-of-a-design-system-b44fac420be';
+  final _url = 'https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/';
   bool _isWebviewSuspended = false;
 
   @override
